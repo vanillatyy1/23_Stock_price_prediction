@@ -12,9 +12,9 @@ The project utilized various Python libraries, including:
     -   pandas, pandas_ta
     -   Prophet, scikit-learn, numpy
     -   matplotlib, plotly
-    -   Flask *(for hosting Gradient Boosting Regression model)*
-    -   HTML, CSS *(for web interface creation)*
-    -   Tableau *(for storyboarding)*
+    -   Flask (for hosting Gradient Boosting Regression model)
+    -   HTML, CSS (for web interface creation)
+    -   Tableau (for storyboarding)
 
 ## Model Conditions and Use Cases:
 
@@ -101,8 +101,8 @@ The project utilized various Python libraries, including:
 -   Dynamic and interactive platform for data exploration
 
 ## Conclusion:
--   Gradient Boosting Regression Model is optimal for stock price forecasting due to lowest MSE.
--   Flask integration, HTML/CSS interface, and Tableau storyboarding enhance usability and presentation.
+-   Gradient Boosting Regression Model is optimal for stock price forecasting due to lowest MSE
+-   Flask integration, HTML/CSS interface, and Tableau storyboarding enhance usability and presentation
 -   Models using the Prophet Library offer comprehensive insights but are less suited for short-term forecasts
 
 ## Future Scope:
